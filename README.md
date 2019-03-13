@@ -7,4 +7,4 @@ The class attempts to run an efficiency loop per this article - **[immutable que
 that attempts to optimize de-queueing from the queue by keeping a reverse stack that has the correct reverse order of the queue for faster de-queueing
 
 
-There is a Scala folder containing an attempt to work with the same solution and logic, unfortunately, the lack of generics is a rough issue in line 69 of ImmutableQueue.scala and Test.scala that I ran out of time to address. Still I felt it was good to show the attempt in a contrast 
+There is a Scala folder containing an attempt to work with the same solution and logic, unfortunately, the lack of experimce with Scala variants compared to Java generics is a rough issue in line 69 of ImmutableQueue.scala and Test.scala that I ran out of time to address. Still I felt it was good to show the attempt in a contrast 
